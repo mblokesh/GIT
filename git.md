@@ -1,4 +1,4 @@
-# Git Commands
+# After Creating the Repository
     First - create a new repository on the command line
     Then,
     echo "# mblokesh" >> README.md
